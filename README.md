@@ -11,3 +11,7 @@ A pretend operating system created by Erin in PenguinMod. The real ErinOS will h
 ## Development
 
 Made in PenguinMod.
+
+## How to Open
+
+Go to https://studio.penguinmod.com and select the "load from a folder" option in Files. Then, select ErinOS PM. Tada!
