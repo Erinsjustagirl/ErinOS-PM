@@ -1,4 +1,4 @@
-# Erin OS
+# ErinOS
 
 A pretend operating system created by Erin in PenguinMod. The real ErinOS will happen once I've learned C enough.
 
