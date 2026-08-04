@@ -12,6 +12,10 @@ ErinScript is an interpreted language for ErinOS. It'll likely carry over to the
 
 `// This is a comment!` Comments work like they do in C and JavaScript and many other programming languages. Two slashes.
 
+`if myVar; print "true"; else print "false";` If statements exist. They're not typically written on one line, but I think they can? I've never tested it. Aanyways, they're simple. You saw how they work.
+
+`myVar == 4` There are four conditionals in ErinScript. ==, >, and the variable itself. == is equals to. > is greater than. And the variable itself is the variable as either 1 or 0. I was planning on adding a not, but on paper it would've been too hard. If you want to add one, go ahead! == works with strings, though nothing in the condition can be in quotes. I'm not happy with this either.
+
 ## ***DO NOT FORGET YOUR SEMICOLONS!!!***
 
 ## Headers

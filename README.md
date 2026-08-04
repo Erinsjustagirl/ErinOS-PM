@@ -10,7 +10,7 @@ A pretend operating system created by Erin in PenguinMod. The real ErinOS will h
 
 ## Development
 
-Made in PenguinMod.
+Made in PenguinMod. I would love it if someone were to contribute. If you'd like to, please do!
 
 ## How to Open
 
