@@ -12,6 +12,8 @@ ErinScript is an interpreted language for ErinOS. It'll likely carry over to the
 
 `// This is a comment!` Comments work like they do in C and JavaScript and many other programming languages. Two slashes.
 
+## ***DO NOT FORGET YOUR SEMICOLONS!!!***
+
 ## Headers
 
 - Give yourself a unique ID! IDs usually follow the format of `author.program`

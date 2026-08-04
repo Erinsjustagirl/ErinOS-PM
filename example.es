@@ -6,7 +6,10 @@ header id "eringirl.example";
 header author "Erinsjustagirl";
 header version "1.0";
 header icon "T"
-
-print "Text";
-var myVar = "Penis Gnome 12";
-print myVar;
+print "start";
+var myVar = 0;
+if myVar;
+    print "true";
+else;
+    print "fake and gay";
+end;
