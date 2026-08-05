@@ -20,6 +20,8 @@ ErinScript is an interpreted language for ErinOS. It'll likely carry over to the
 
 `myVar + 4` ErinScript has four operators. + - * /. You've probably seen these in math class. They work as expected. You can also operate on two variables at once!
 
+`window "My Awesome Window" 300 200;` You can create windows. This was a pain to make. The format goes title, width, height. As of writing this, you can't really put anything inside windows or make them do anything. Remind me to remove this once that's implemented.
+
 ## ***DO NOT FORGET YOUR SEMICOLONS!!!***
 
 ## Headers

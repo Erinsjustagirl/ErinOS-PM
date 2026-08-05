@@ -9,9 +9,10 @@ header icon "T"
 
 print "start test";
 
-var myVar = 2;
-var myOtherVar = 3;
-print myVar;
-wait 2;
-var myVar = myVar + myOtherVar;
-print myVar;
+var width = 200;
+var height = 100;
+print width;
+print height;
+window "Title" width height;
+
+print "end test";
