@@ -7,11 +7,11 @@ header author "Erinsjustagirl";
 header version "1.0";
 header icon "T"
 
-print "start";
+print "start test";
 
-var myVar = "test";
-if myVar == test;
-    print "true";
-else;
-    print "false";
-end;
+var myVar = 2;
+var myOtherVar = 3;
+print myVar;
+wait 2;
+var myVar = myVar + myOtherVar;
+print myVar;
